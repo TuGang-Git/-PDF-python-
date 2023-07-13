@@ -8,6 +8,12 @@
 4. 选择pdf存储位置并命名
 5. 点击返回可以继续拼接，也可以关闭
 
+打包成.exe可执行文件：在项目位置按shift+鼠标右键选择在此处打开PowerShell窗口，
+
+再输入pyinstaller -F main.py --noconsole
+
+最后去生成的dist文件夹中即可找到想要的.exe可执行文件！
+
 ## Put multiple images into a PDF file
 This is a program written by python whose GUI is based on tkinter
 
