@@ -1,5 +1,6 @@
 # 将多个图片拼接为PDF
 用Python写的一个图片转接PDF程序，界面用的是tkinter框架。
+
 使用步骤：
 1. 创建好文件夹存储图片，有顺序要求可以给定好排序的名字
 2. 运行main.py，点击“选择文件夹”
@@ -9,6 +10,7 @@
 
 ## Put multiple images into a PDF file
 This is a program written by python whose GUI is based on tkinter
+
 Steps to use:
 1. Create a folder to put images in. Name them in order if you need.
 2. Run main.py and click "选择文件夹"
